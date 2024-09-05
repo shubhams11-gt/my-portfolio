@@ -612,7 +612,7 @@ h3 .o-accent {
 }
 .o-title-small {
   display: block;
-  font-size: 12px;
+  font-size: 20px;
   color: #a2a2a2;
   font-family: gilroy, sans-serif;
   text-transform: uppercase;
@@ -766,8 +766,8 @@ nav a {
   display: flex;
   justify-content: center;
   align-items: flex-start;
-  filter: saturate(0);
   transition: 0.4s;
+  filter: saturate(.6);
 }
 .c-about-cards > div:hover img {
   filter: saturate(1);
@@ -979,7 +979,7 @@ nav a {
   opacity: 1;
 }
 .c-archive a {
-  font-size: 20px;
+  font-size: 24px;
   color: #fff;
   text-transform: uppercase;
   position: relative;
