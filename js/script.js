@@ -10085,13 +10085,12 @@
         "#ccfff4ff", 
         "#beeafcff", 
         "#fbeff3ff", 
-        "#f9f3e9ff ",
-        "#f0e4fdff",
-        "#d5e3ffff ", 
-        "#fedee8ff", 
+        "#f8ebf0 ",
+        "#faece3",
+        "#ecdcfe", 
+        "#d5e3ffff", 
         "#fae6c9ff", 
-        "#f7efe7ff",
-        
+        "#f7efe7ff", 
         "#F2E4D4"
       ];
       let n = document.querySelectorAll(".js-project"),
